@@ -1,0 +1,12 @@
+# Ignore Python temporary files
+__pycache__/
+*.py[cod]
+
+# Ignore System files
+.DS_Store
+Thumbs.db
+
+# Ignore Virtual Environments (Crucial!)
+env/
+venv/
+.conda/

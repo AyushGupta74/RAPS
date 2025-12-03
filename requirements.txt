@@ -1,0 +1,11 @@
+streamlit
+networkx
+folium
+streamlit-folium
+opencv-python
+transformers
+tensorflow
+pandas
+numpy
+geopy
+scikit-learn
