@@ -1,0 +1,35 @@
+
+# Core App & UI
+streamlit>=1.30
+streamlit-folium>=0.18
+folium>=0.15
+
+# Graph & Routing
+networkx>=3.1
+osmnx>=1.9
+shapely>=2.0
+
+# Data & Utilities
+numpy>=1.24
+pandas>=2.0
+
+# Computer Vision
+opencv-python>=4.8
+ultralytics>=8.1
+torch>=2.0
+
+# NLP (for text_service)
+transformers>=4.36
+sentencepiece>=0.1.99
+
+# Visualization / Maps
+branca>=0.7
+
+# Logging & Config
+python-dotenv>=1.0
+
+# Testing (CI)
+pytest>=7.4
+
+#Extras
+scikit-learn

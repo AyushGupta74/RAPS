@@ -1,0 +1,8 @@
+names:
+  0: car
+  1: bus
+  2: truck
+nc: 3
+path: ../traffic_density_project/data/processed
+train: images/train
+val: images/val
